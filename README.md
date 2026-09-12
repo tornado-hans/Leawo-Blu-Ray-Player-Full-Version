@@ -268,3 +268,6 @@ This repository serves as the official landing page for Leawo Blu-ray Player. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Leawo Blu-ray Player today!**
+
+---
+**Last updated:** 2026-09-12 21:04:39 UTC
